@@ -50,7 +50,7 @@ int main() {
                 scanf("%d", &id[i]);
 
                 printf("Name: ");
-                scanf("%s", name[i]);
+                scanf("%49s", name[i]);
 
                 printf("Score: ");
                 scanf("%f", &score[i]);
